@@ -3,11 +3,12 @@ STOCK TRACKER PORTFOLIO
 Hi ! This is me Samia Qadri - student of BSSE,UBIT, University of Karachi.
 It is a CLI based - mini project that allows users to efficiently track and manage their stock portfolio using real-time stock data
 
-📌 Features
+📌 Features: 
+
 Add new stock
 - Update existing stock entries.
 - Delete stocks from the portfolio.
-- Fetch real-time stock prices (AAPL, NGRO, LUCK, etc.).
+- Fetch real-time stock prices (AAPL, TSLA, AMZN, etc.).
 - Store and load portfolio data from a JSON file.
 - View total investment worth in USD and PKR.
 - view trending stocks with their live prices
