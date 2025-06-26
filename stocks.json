@@ -1,0 +1,48 @@
+{
+    "stocks": [
+        {
+            "name": "AAPL",
+            "quantity": 2,
+            "purchased price": 201.267,
+            "investment in pkr": 116752.70999999999
+        },
+        {
+            "name": "ENGRO.KA",
+            "quantity": 48,
+            "purchased price": 1.183,
+            "investment in pkr": 14085.892399999999
+        },
+        {
+            "name": "MSFT",
+            "quantity": 1,
+            "purchased price": 421.3,
+            "investment in pkr": 122320
+        },
+        {
+            "name": "TSLA",
+            "quantity": 4,
+            "purchased price": 177.933,
+            "investment in pkr": 194149.0844
+        },
+        {
+            "name": "LUCK.KA",
+            "quantity": 150,
+            "purchased price": 2.05,
+            "investment in pkr": 92250
+        }
+    ],
+    "total_investment_pkr": 588316.1964,
+    "trending": [
+        "AAPL",
+        "TSLA",
+        "MSFT",
+        "NVDA",
+        "GOOGL",
+        "AMZN"
+    ],
+    "pak_stocks_name": {
+        "ENGRO.KA": "Engro Corporation",
+        "HBL.KA": "Habib Bank Limited",
+        "LUCK.KA": "Lucky Cement Limited"
+    }
+}
