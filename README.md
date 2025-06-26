@@ -26,7 +26,9 @@ json  - data storage
 
 - A working **internet connection** is required to fetch live stock data.
 - Make sure to install the following Python libraries:
-  -  matplotlib _(for plotting graph)_
- 
+  1  matplotlib _(for plotting graph)_
+  2  yfinance  _(for fetching stock data)_
+
+
     Suggestions and feedback are always welcome
-  -  yfinance  _(for fetching stock data)_
+
